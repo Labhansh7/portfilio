@@ -6,6 +6,8 @@
 
 ![HTML](https://github.com/Labhansh7/portfilio/assets/113425100/a4fa8cc4-733c-4db7-a67c-2727a0acae85)
 ![Javascript](https://github.com/Labhansh7/portfilio/assets/113425100/997d7c62-6e5f-475f-83fd-d2840158f8bd)
+![NavLogo](https://github.com/Labhansh7/portfilio/assets/113425100/a510e8e2-a566-4f69-ba84-aafe03567857)
+
 ![Github](https://github.com/Labhansh7/portfilio/assets/113425100/cab2a6ab-5b51-422f-959c-533541c6b8db)
 
 ![K8s](https://github.com/Labhansh7/portfilio/assets/113425100/c44c7940-eef4-47d8-b4e6-a1b12023c697)
